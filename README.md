@@ -1,5 +1,5 @@
 #HEY I'VE MADE THIS BASIC CALCULATOR! LET ME WHAT CAN I IMPROVE!! 
-# 🧮 Basic Python Calculator
+#  Basic Python Calculator
 
 This is a beginner-level calculator built using Python. It handles basic arithmetic operations like:
 
@@ -12,13 +12,13 @@ This is a beginner-level calculator built using Python. It handles basic arithme
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 The program asks the user to input two numbers and select an operation. Based on the input, it performs the calculation and prints the result.
 
 ---
 
-## 📄 Code
+## Code
 
 
 
