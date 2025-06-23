@@ -1,16 +1,40 @@
-## Hi there 👋
+HEY I'VE MADE THIS BASIC CALCULATOR! LET ME WHAT CAN I IMPROVE!! 
 
-<!--
-**Prachi707/Prachi707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+print("Hey bro, I am making a calculator and I think you should give it a shot.\n"
+      "There are a few options for operations: plus, subtract, divide, multiply, power, modulo (which gives you remainder)\n")
+
+a = int(input("Enter one of the two numbers you want operations on: "))
+b = int(input("Enter the second number: "))
+
+c = input("What kind of operation do you want to operate:\n")
+
+try:
+    if c == "plus":
+        print(f"Sum of {a} and {b} is {a + b}")
+    elif c == "subtract":
+        d = float(a - b)
+        print(f"Subtraction of {a} and {b} is {d}")
+    elif c == "divide":
+        if b == 0:
+            print("Not divisible by zero")
+        else:
+            d = float(a / b)
+            print(f"Division is {d}")
+            print(f"Here is integer division of {a} and {b}: {a // b}")
+    elif c == "multiply":
+        print(f"Multiplication of {a} and {b} is {a * b}")
+    elif c == "power":
+        print(f"{a} to the power of {b} is {a ** b}")
+    elif c == "modulo":
+        if b == 0:
+            print("Modulo by zero is undefined.")
+        else:
+            print(f"Remainder of {a} divided by {b} is {a % b}")
+    else:
+        print("Enter a valid option!")
+
+except Exception as e:
+    print("Sorry, we couldn't get your answer :(")
+    print(f"ERROR: {e}")
