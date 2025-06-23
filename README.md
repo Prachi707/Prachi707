@@ -1,4 +1,24 @@
-HEY I'VE MADE THIS BASIC CALCULATOR! LET ME WHAT CAN I IMPROVE!! 
+#HEY I'VE MADE THIS BASIC CALCULATOR! LET ME WHAT CAN I IMPROVE!! 
+# 🧮 Basic Python Calculator
+
+This is a beginner-level calculator built using Python. It handles basic arithmetic operations like:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Power
+- Modulo
+
+---
+
+## 🚀 How It Works
+
+The program asks the user to input two numbers and select an operation. Based on the input, it performs the calculation and prints the result.
+
+---
+
+## 📄 Code
 
 
 
