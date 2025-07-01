@@ -1,4 +1,58 @@
-#HEY I'VE MADE THIS BASIC CALCULATOR! LET ME WHAT CAN I IMPROVE!! 
+#MY FIRST 50 CODES OF PYTHON AS A BEGINNER 
+
+1.PRINT SOMETHING
+
+print("hello ! it's my actual beginner program. don't worry, you've got this")
+print("you can use double quotes or singer quotes. both works but prefer to use doubal quotes")
+
+2.BASIC USE OF OPERATORS
+
+a=5  #we don't need to define data type because python is implicit language
+b=6  #basic operators as plus, subtract, divide, power
+
+print(a+b)
+print(a-b)
+print(a/b)
+print(a*b)
+print(a**b)
+
+3.SWAP TWO NUMBERS WITHOUT USING THIRD VARIABLE
+
+a = 5
+b = 3
+
+a = a + b  
+b = a - b  
+a = a - b  
+
+print("a =", a)
+print("b =", b)
+
+4.CHECK WHETHER IT IS EVEN OR ODD
+
+n=int(input("enter a number to check odd-even:"))
+
+if (n % 2 == 0):
+    print(f"{n} is an even number")
+else:
+    print(f"{n} is an odd number")
+
+|OR|
+
+n = int(input("Enter a number to check odd-even: "))
+print(f"{n} is an {'even' if n % 2 == 0 else 'odd'} number")
+
+5.FIND THE GREATEST OF TWO NUMBERS
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+print(f"{'Both numbers are equal' if a == b else f'{a} is greater' if a > b else f'{b} is greater'}")
+
+6.
+
+
+
 #  Basic Python Calculator
 
 This is a beginner-level calculator built using Python. It handles basic arithmetic operations like:
