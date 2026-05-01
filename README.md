@@ -33,16 +33,16 @@
 ###  Data Projects by Prachi Dhanik
 
 ####  **IPL Statistical Analysis (EDA)**
-*   **The Build:** Analyzed 15 years of match data (2008–2022) to quantify performance trends[cite: 2].
-*   **Key Discovery:** Statistically validated that fielding first in the IPL yields a **55% win probability**[cite: 2].
-*   **Tools:** Cleaned and engineered features with **Pandas**; visualized trends with **Matplotlib**[cite: 2].
+*   **The Build:** Analyzed 15 years of match data (2008–2022) to quantify performance trends.
+*   **Key Discovery:** Statistically validated that fielding first in the IPL yields a **55% win probability**.
+*   **Tools:** Cleaned and engineered features with **Pandas**; visualized trends with **Matplotlib**.
 
 ---
 
 ###  Progress & Achievements
 
-*   **Algorithm Master:** Solved **300+ problems** on LeetCode and GeeksforGeeks with a focus on data structure proficiency[cite: 1].
-*   **Visual Logic:** Practiced coordinate-based programming by rendering complex characters using the Python **Turtle** library[cite: 1].
+*   **Algorithm Master:** Solved **300+ problems** on LeetCode and GeeksforGeeks with a focus on data structure proficiency.
+*   **Visual Logic:** Practiced coordinate-based programming by rendering complex characters using the Python **Turtle** library.
 
 ---
 
