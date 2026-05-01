@@ -1,47 +1,61 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=200&section=header&text=Hi,%20I'm%20Prachi%20Dhanik&fontSize=45&animation=fadeIn" />
-</h1>
-
-<h3 align="center">⚡ Aspiring Data Engineer | Turning messy data into intelligence.</h3>
-
+<!-- Data Logic & Engineering Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5EEAD4&center=true&vCenter=true&width=435&lines=Mastering+Python+Data+Structures;Building+SafeScript+AI;Solving+LeetCode+Challenges;GCP+Cloud+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=008080&center=true&vCenter=true&width=900&lines=Prachi+Dhanik+|+Data+Engineering;Building+Scalable+Data+Pipelines;Python+Logic+%2B+Data+Structures;OCR+%26+Computer+Vision+Utility;Warp+Terminal+Command+Center" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠️ The Tech Ecosystem
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+##  About Prachi Dhanik
 
-### 🧪 Current Laboratory
-- 🧬 **SafeScript:** A Drug Interaction Alert System using Google Cloud Vision API for OCR medicine scanning.
-- 📈 **Data Foundations:** Mastering Sets, Tuples, and Dictionaries to build high-performance data pipelines.
-- 🧩 **Competitive Programming:** Solving logic-based challenges on LeetCode and HackerEarth.
+*   **Career Focus:** Aspiring Data Engineer specializing in Python-based backend logic and AI integration[cite: 1].
+*   **Current Mission:** Mastering foundational data structures (Lists, Sets, Tuples, Dictionaries) to solve complex algorithmic challenges[cite: 1].
+*   **Philosophy:** Turning raw data into actionable insights through clean, efficient code[cite: 1].
+*   **Tech Hub:** Utilizing the **Warp Terminal** as a command center for environment orchestration and backend development[cite: 1].
 
 ---
 
-### 📊 Vital Statistics
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prachi707&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi707&layout=compact&theme=tokyonight" />
-</p>
+###  Technical Arsenal
 
-### 🐍 Contribution Activity
-![Snake Animation](https://raw.githubusercontent.com/prachi707/prachi707/output/github-contribution-grid-snake.svg)
+####  Data Engineering & Backend Logic
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+####  Environment & Tools
+![Warp](https://img.shields.io/badge/Warp_Terminal-050505?style=for-the-badge&logo=warp&logoColor=00FFD1)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="mailto:prachidhanik07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/prachi-dhanik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.leetcode.com/prachi_dhanik"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+###  Data Projects by Prachi Dhanik
 
-<p align="center"><i>"Building the pipelines that fuel the future of AI."</i></p>
+####  **IPL Statistical Analysis (EDA)**
+*   **The Build:** Analyzed 15 years of match data (2008–2022) to quantify performance trends[cite: 2].
+*   **Key Discovery:** Statistically validated that fielding first in the IPL yields a **55% win probability**[cite: 2].
+*   **Tools:** Cleaned and engineered features with **Pandas**; visualized trends with **Matplotlib**[cite: 2].
+
+---
+
+###  Progress & Achievements
+
+*   **Algorithm Master:** Solved **300+ problems** on LeetCode and GeeksforGeeks with a focus on data structure proficiency[cite: 1].
+*   **Visual Logic:** Practiced coordinate-based programming by rendering complex characters using the Python **Turtle** library[cite: 1].
+
+---
+
+###  Connect with Prachi
+ **Email:** [prachidhanik07@gmail.com](mailto:prachidhanik07@gmail.com)  
+ **LinkedIn:** [linkedin.com/in/prachi-dhanik](https://www.linkedin.com/in/prachi-dhanik-0b5823323/)  
+ **LeetCode:** [u/Prachi_dhanik07](https://leetcode.com/u/Prachi_dhanik07/)
+
+---
+
+### System Activity
+![Prachi707's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prachi707&theme=teal&hide_border=true&area=true)
+
+---
+
+*"Code is like humor. When you have to explain it, it’s bad."*
