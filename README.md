@@ -1,31 +1,47 @@
-<h1 align="center">Hi , I'm Prachi Dhanik</h1>
-<h3 align="center">Trying to make sense of data and not mess up Python along the way.</h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=200&section=header&text=Hi,%20I'm%20Prachi%20Dhanik&fontSize=45&animation=fadeIn" />
+</h1>
 
--  I’m currently learning **how to turn messy data into something useful.**
+<h3 align="center">⚡ Aspiring Data Engineer | Turning messy data into intelligence.</h3>
 
--  How to reach me **prachidhanik07@gmail.com**
-
--  Fun fact **not the smartest, but endlessly curious about tech.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<br><a href="https://linkedin.com/in/prachi-dhanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachi-dhanik" height="30" width="40" /></br></a></p>
-<br><a href="https://www.leetcode.com/prachi_dhanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prachi_dhanik" height="30" width="40" /></br></a>
-<br><a href="https://www.hackerearth.com/prachi dhanik india" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="prachi dhanik india" height="30" width="40" /></br></a>
-<br><a href="https://www.topcoder.com/members/395006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="395006" height="30" width="40" /></br></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5EEAD4&center=true&vCenter=true&width=435&lines=Mastering+Python+Data+Structures;Building+SafeScript+AI;Solving+LeetCode+Challenges;GCP+Cloud+Integration" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><br> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></br> </a> 
-  <br><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></br> </a> 
-<br><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </br></a>
-<br><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </br></a>
-<br><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></br> </a>
-<br><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </br></a> 
-<br><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></br> </a> 
-<br><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></br> </a> 
-<br><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <br></a> 
-<br><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></br> </a> 
-<br><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></br> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachi707&" alt="prachi707" /></p>
+### 🛠️ The Tech Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### 🧪 Current Laboratory
+- 🧬 **SafeScript:** A Drug Interaction Alert System using Google Cloud Vision API for OCR medicine scanning.
+- 📈 **Data Foundations:** Mastering Sets, Tuples, and Dictionaries to build high-performance data pipelines.
+- 🧩 **Competitive Programming:** Solving logic-based challenges on LeetCode and HackerEarth.
+
+---
+
+### 📊 Vital Statistics
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prachi707&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachi707&layout=compact&theme=tokyonight" />
+</p>
+
+### 🐍 Contribution Activity
+![Snake Animation](https://raw.githubusercontent.com/prachi707/prachi707/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="mailto:prachidhanik07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/prachi-dhanik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.leetcode.com/prachi_dhanik"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+<p align="center"><i>"Building the pipelines that fuel the future of AI."</i></p>
