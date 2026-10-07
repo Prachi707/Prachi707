@@ -7,9 +7,9 @@
 
 ##  About Prachi Dhanik
 
-*   **Career Focus:** Aspiring Data Engineer specializing in Python-based backend logic and AI integration.
-*   **Current Mission:** Mastering foundational data structures (Lists, Sets, Tuples, Dictionaries) to solve complex algorithmic challenges.
-*   **Philosophy:** Turning raw data into actionable insights through clean, efficient code.
+*   **Career Focus:** Become a
+*   **Current Mission:** Learning Cloud database
+*   **Philosophy:** Make the data less boring
 *   **Tech Hub:** Utilizing the **Warp Terminal** as a command center for environment orchestration and backend development.
 
 ---
