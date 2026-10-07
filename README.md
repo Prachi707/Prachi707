@@ -7,7 +7,7 @@
 
 ##  About Prachi Dhanik
 
-*   **Career Focus:** Become a
+*   **Career Focus:** Become a good data analystt
 *   **Current Mission:** Learning Cloud database
 *   **Philosophy:** Make the data less boring
 *   **Tech Hub:** Utilizing the **Warp Terminal** as a command center for environment orchestration and backend development.
