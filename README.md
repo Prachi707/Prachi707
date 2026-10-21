@@ -1,7 +1,7 @@
-# Hi, I'm Prachi 👋
+# Pleased to meet you, I'm Prachi !
 
-### Data Science Student & Aspiring Data Analyst
-**Third-year B.Tech · P P Savani University, Surat · Building real-world analytics projects**
+### Data Science Student & Simmering Data Analyst
+**Third-year B.Tech | P P Savani University, Surat | Building real-world analytics projects**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-F29814?style=flat&logo=mysql&logoColor=white)
@@ -14,11 +14,11 @@
 
 ## About Me
 
-- 🎓 Third-year B.Tech Data Science @ P P Savani University (Expected 2028) — CGPA 8.0
-- 📍 Surat, Gujarat — open to onsite internships locally and remotely
-- 🔍 Seeking data analyst internships to work on real business problems
-- 🧠 Currently building: NYC 311 SQL analysis (PostgreSQL, window functions, dashboards)
-- 🏆 LeetCode: 199 problems solved · Data Navigator Badge · 100-Day Streak 2026
+-  Third-year B.Tech Data Science @ P P Savani University (Expected 2028) — CGPA 8.0
+-  Surat, Gujarat — open to onsite internships locally and remotely
+-  Seeking data analyst internships to work on real business problems
+-  Currently building: NYC 311 SQL analysis (PostgreSQL, window functions, dashboards)
+-  LeetCode: 199 problems solved · Data Navigator Badge · 100-Day Streak 2026
 
 ---
 
