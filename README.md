@@ -14,8 +14,8 @@
 
 ## About Me
 
--  Third-year B.Tech Data Science @ P P Savani University (Expected 2028) — CGPA 8.0
--  Surat, Gujarat — open to onsite internships locally and remotely
+-  Third-year B.Tech Data Science @ P P Savani University (Expected 2028) : CGPA 8.0
+-  Surat, Gujarat : open to onsite internships locally and remotely
 -  Seeking data analyst internships to work on real business problems
 -  Currently building: NYC 311 SQL analysis (PostgreSQL, window functions, dashboards)
 -  LeetCode: 199 problems solved · Data Navigator Badge · 100-Day Streak 2026
