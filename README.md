@@ -1,61 +1,52 @@
-<!-- Data Logic & Engineering Header Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=008080&center=true&vCenter=true&width=900&lines=Prachi+Dhanik+|+Data+Engineering;Building+Scalable+Data+Pipelines;Python+Logic+%2B+Data+Structures;OCR+%26+Computer+Vision+Utility;Warp+Terminal+Command+Center" alt="Typing SVG" />
-</p>
+# Hi, I'm Prachi 👋
+
+### Data Science Student & Aspiring Data Analyst
+**Third-year B.Tech · P P Savani University, Surat · Building real-world analytics projects**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F29814?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-##  About Prachi Dhanik
+## About Me
 
-*   **Career Focus:** Become a good data analystt
-*   **Current Mission:** Learning Cloud database
-*   **Philosophy:** Make the data less boring
-*   **Tech Hub:** Utilizing the **Warp Terminal** as a command center for environment orchestration and backend development.
-
----
-
-###  Technical Arsenal
-
-####  Data Engineering & Backend Logic
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-####  Environment & Tools
-![Warp](https://img.shields.io/badge/Warp_Terminal-050505?style=for-the-badge&logo=warp&logoColor=00FFD1)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+- 🎓 Third-year B.Tech Data Science @ P P Savani University (Expected 2028) — CGPA 8.0
+- 📍 Surat, Gujarat — open to onsite internships locally and remotely
+- 🔍 Seeking data analyst internships to work on real business problems
+- 🧠 Currently building: NYC 311 SQL analysis (PostgreSQL, window functions, dashboards)
+- 🏆 LeetCode: 199 problems solved · Data Navigator Badge · 100-Day Streak 2026
 
 ---
 
-###  Data Projects by Prachi Dhanik
+## Featured Projects
 
-####  **IPL Statistical Analysis (EDA)**
-*   **The Build:** Analyzed 15 years of match data (2008–2022) to quantify performance trends.
-*   **Key Discovery:** Statistically validated that fielding first in the IPL yields a **55% win probability**.
-*   **Tools:** Cleaned and engineered features with **Pandas**; visualized trends with **Matplotlib**.
-
----
-
-###  Progress & Achievements
-
-*   **Algorithm Master:** Solved **300+ problems** on LeetCode and GeeksforGeeks with a focus on data structure proficiency.
-*   **Visual Logic:** Practiced coordinate-based programming by rendering complex characters using the Python **Turtle** library.
+| Project | What I did | Stack |
+|---|---|---|
+| [🚖 Uber Trip EDA](https://github.com/Prachi707/uber-eda-project) | Cleaned trip data, detected 77 mileage outliers with IQR, found peak patterns by time and purpose | Python · Pandas · Seaborn |
+| [🏏 IPL Match Analysis](https://github.com/Prachi707/IPL_Exploratory_data_Analysis) | Team win rates, toss impact, venue patterns across 10+ seasons of IPL data | Python · Pandas · Matplotlib |
+| [🥇 Olympics Dashboard](https://github.com/Prachi707/Winter_Olympic_medal_Excel_Analysis) | Interactive Excel dashboard on 2,866-row medal dataset — filterable by country, sport, year | Excel · Pivot Tables · Slicers |
 
 ---
 
-###  Connect with Prachi
- **Email:** [prachidhanik07@gmail.com](mailto:prachidhanik07@gmail.com)  
- **LinkedIn:** [linkedin.com/in/prachi-dhanik](https://www.linkedin.com/in/prachi-dhanik-0b5823323/)  
- **LeetCode:** [u/Prachi_dhanik07](https://leetcode.com/u/Prachi_dhanik07/)
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Prachi707&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=1d4e3a&icon_color=1d4e3a" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi707&layout=compact&hide_border=true&title_color=1d4e3a" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prachi707&hide_border=true&ring=1d4e3a&fire=1d4e3a&currStreakLabel=1d4e3a" />
+
+</div>
 
 ---
 
-### System Activity
-![Prachi707's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prachi707&theme=teal&hide_border=true&area=true)
+## Connect
 
----
-
-*"Code is like humor. When you have to explain it, it’s bad."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prachidhanik07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/Prachi_dhanik07)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:prachidhanik07@gmail.com)
